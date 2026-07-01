@@ -1,0 +1,358 @@
+canonical_identifier: bkk:krp/KR6d0090/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0090/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經演義科
+  identifiers:
+    krp: KR6d0090
+    cbeta: X33n0624
+    cbeta_old_id: X33n0624
+    authorityid: CA0000885
+    json_key: X0624
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X33/X33n0624.xml
+    old_id: X33n0624
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0090_000-X.yaml, hash: 'sha256:4535da201d5762db4744dbaf3618f26695992bd77c93c1789ceeaf04dd1e90a5'}
+  - {seq: 1, filename: KR6d0090_001-X.yaml, hash: 'sha256:9a4cab30f969a845d6b5ebd32de9fd81e0990499d956a7f4cb103547d477a493'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0090_000-X.markers.yaml, hash: 'sha256:26bedde8a128b0d0fa732c5af4e01f2ff2d8425477f429469b1fda5898e0f2fe'}
+  - {seq: 1, role: markers, filename: assets/KR6d0090_001-X.markers.yaml, hash: 'sha256:163d2a09a1780fa1b2ae6fb3f2869c1712719dcb315a6eb89c6ff92502e3db27'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0090_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 624-A 新刻法華演義序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0090_X_000-mulu-2
+    span:
+    - front
+    - 698
+    - 698
+  label: No. 624-B 新刻法華演義序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0090_X_000-mulu-3
+    span:
+    - front
+    - 2012
+    - 2012
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11976
+  label: 法華經演義科文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 序品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-2
+    span:
+    - body
+    - 854
+    - 854
+  label: 方便品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-3
+    span:
+    - body
+    - 2138
+    - 2138
+  label: 譬喻品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-4
+    span:
+    - body
+    - 3093
+    - 3093
+  label: 信解品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-5
+    span:
+    - body
+    - 3930
+    - 3930
+  label: 藥草喻品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-6
+    span:
+    - body
+    - 4394
+    - 4394
+  label: 授記品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-7
+    span:
+    - body
+    - 4691
+    - 4691
+  label: 化城喻品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-8
+    span:
+    - body
+    - 5525
+    - 5525
+  label: 五百弟子受記品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-9
+    span:
+    - body
+    - 5931
+    - 5931
+  label: 授學無學人記品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-10
+    span:
+    - body
+    - 6020
+    - 6020
+  label: 法師品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-11
+    span:
+    - body
+    - 6356
+    - 6356
+  label: 見寶塔品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-12
+    span:
+    - body
+    - 6653
+    - 6653
+  label: 提婆達多品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-13
+    span:
+    - body
+    - 6969
+    - 6969
+  label: 持品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-14
+    span:
+    - body
+    - 7248
+    - 7248
+  label: 安樂行品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-15
+    span:
+    - body
+    - 7838
+    - 7838
+  label: 從地湧出品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-16
+    span:
+    - body
+    - 8246
+    - 8246
+  label: 如來壽量品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-17
+    span:
+    - body
+    - 8693
+    - 8693
+  label: 分別功德品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-18
+    span:
+    - body
+    - 9140
+    - 9140
+  label: 隨喜功德品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-19
+    span:
+    - body
+    - 9289
+    - 9289
+  label: 法師功德品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-20
+    span:
+    - body
+    - 9722
+    - 9722
+  label: 常不輕菩薩品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-21
+    span:
+    - body
+    - 9911
+    - 9911
+  label: 如來神力品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-22
+    span:
+    - body
+    - 10069
+    - 10069
+  label: 囑累品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-23
+    span:
+    - body
+    - 10144
+    - 10144
+  label: 藥王菩薩本事品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-24
+    span:
+    - body
+    - 10506
+    - 10506
+  label: 妙音菩薩品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-25
+    span:
+    - body
+    - 10792
+    - 10792
+  label: 觀世音菩薩普門品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-26
+    span:
+    - body
+    - 11211
+    - 11211
+  label: 陀羅尼品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-27
+    span:
+    - body
+    - 11343
+    - 11343
+  label: 妙莊嚴王本事品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-28
+    span:
+    - body
+    - 11545
+    - 11545
+  label: 普賢菩薩勸發品科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0090_X_001-mulu-29
+    span:
+    - body
+    - 11843
+    - 11843
+  label: 弘傳序科
+  type: mulu
+  level: 1
+hash: sha256:bea23ebf7248773892737718222be8db02bee1583bfef65e8358fe942b4a0cbf
