@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0090_000-X.yaml, hash: 'sha256:4535da201d5762db4744dbaf3618f26695992bd77c93c1789ceeaf04dd1e90a5'}
+  - {seq: 0, filename: KR6d0090_000-X.yaml, hash: 'sha256:f3a11542443f4733ac5b5a2b16eca41fb2ca7af62783d6dabd82f156225fe577'}
   - {seq: 1, filename: KR6d0090_001-X.yaml, hash: 'sha256:9a4cab30f969a845d6b5ebd32de9fd81e0990499d956a7f4cb103547d477a493'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0090_000-X.markers.yaml, hash: 'sha256:26bedde8a128b0d0fa732c5af4e01f2ff2d8425477f429469b1fda5898e0f2fe'}
+  - {seq: 0, role: markers, filename: assets/KR6d0090_000-X.markers.yaml, hash: 'sha256:985cd6eb827ab10e97dbe92b82adac11c8cff1cdbf12cae6bf793d309114422b'}
   - {seq: 1, role: markers, filename: assets/KR6d0090_001-X.markers.yaml, hash: 'sha256:163d2a09a1780fa1b2ae6fb3f2869c1712719dcb315a6eb89c6ff92502e3db27'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0090_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 624-A 新刻法華演義序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0090_X_000-mulu-2
     span:
-    - front
+    - body
     - 698
     - 698
   label: No. 624-B 新刻法華演義序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0090_X_000-mulu-3
     span:
-    - front
+    - body
     - 2012
     - 2012
   label: 目次
@@ -355,4 +355,4 @@ table_of_contents:
   label: 弘傳序科
   type: mulu
   level: 1
-hash: sha256:bea23ebf7248773892737718222be8db02bee1583bfef65e8358fe942b4a0cbf
+hash: sha256:9fb76511acfa2eff9bed807da277bcad7ad052074a94346dcd3101d2ca3b0dd2
